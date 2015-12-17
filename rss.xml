@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[d3k0y]]></title>
+        <description><![CDATA[d3k0y]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 20:09:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gmail]]></title>
+            <description><![CDATA[<article><h1>Gmail</h1><p>Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49554d28b39ee030db5b2a3a6dacc8cf9fa5efc7.png"></article>]]></description>
+            <link>https://mail.google.com/mail/u/0/#inbox/151b0d8d55a59a18</link>
+            <guid isPermaLink="false">95571bb6-a596-4f68-9aba-651c64cb6892</guid>
+            <pubDate>Thu, 17 Dec 2015 20:09:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
